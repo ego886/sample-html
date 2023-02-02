@@ -1,5 +1,5 @@
 spec:
-  name: sample-html
+  name: sunnyfriendadmin
   static_sites:
   - environment_slug: html
     git:
